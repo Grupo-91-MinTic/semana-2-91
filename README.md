@@ -7,6 +7,7 @@ Integrantes & roles:
 * Andrés Manuel Prieto Álvarez (Main frontend Developer)
 * Carlos Sneider Soto Sogamoso (Main Backend Developer)
 * Harold Alejandro Caicedo Martinez (Frontend Developer)
+* Sebastian Orduz (Backend Developer)
 
 [Reto del sprint](doc/Proyecto_Sprint_II.pdf)
 
