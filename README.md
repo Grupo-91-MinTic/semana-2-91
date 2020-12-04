@@ -1,13 +1,29 @@
-# Proyecto ciclo III: Semana 2, Grupo 91
+# pryecto_sprint2
 
-Proyecto colaborativo del ciclo III de MinTic 20/22
+## Project setup
+```
+npm install
+```
 
-Integrantes & roles:
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
 
-* Andrés Manuel Prieto Álvarez (Main frontend Developer)
-* Carlos Sneider Soto Sogamoso (Main Backend Developer)
-* Harold Alejandro Caicedo Martinez (Frontend Developer)
-* Sebastian Orduz (Backend Developer)
+### Compiles and minifies for production
+```
+npm run build
+```
 
-[Reto del sprint](doc/Proyecto_Sprint_II.pdf)
+### Run your unit tests
+```
+npm run test:unit
+```
 
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
