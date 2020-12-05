@@ -1,7 +1,7 @@
 <template>
     <footer>
         <div class="container-fluid text-white bg-dark">
-            <div class="row p-5 mb-5">
+            <div class="row p-5">
                 <div class="col-6">
                     <a class="mx-auto d-block text-center" :href="repository" target="blank">
                         <img :src="icons[0]"/> <br> <strong>Link del repositorio</strong>
@@ -9,7 +9,7 @@
                     <hr>
                     <p class="text-center">{{description}}</p>
                 </div>
-                <div class="col-6 badge">
+                <div class="col-6">
                     <a :href="icons[1]" target="blank">
                         <img class="text-center" src="https://img.icons8.com/dusk/64/000000/linkedin.png"/>{{names[0]}} {{charges[0]}}
                     </a>
