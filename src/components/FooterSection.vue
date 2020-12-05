@@ -40,7 +40,7 @@ export default {
     data(){
         return{
             repository: 'https://github.com/Grupo-91-MinTic/semana-2-91',
-            description: 'Este proyecto se creo para sustentar lo aprendido en el sprint II del ciclo 3, usando Vue, Boostrap, JS',
+            description: 'Este proyecto se creo para sustentar lo aprendido en el sprint II del ciclo 3, usando Vue, Boostrap, JS',     
             names: ['Andrés Manuel Prieto Álvarez', 'Carlos Sneider Soto Sogamoso', 'Harold Alejandro Caicedo', 'Juan Sebastion Ortiz'],
             charges: ['(Main frontend developer)', '(Main backend developer)', '(Frontend developer)', '(Backend developer)']
         }
