@@ -11,7 +11,7 @@ import FooterSection from './components/FooterSection.vue';
 export default {
   name: 'App',
   components: {
-    FooterSection,
+    FooterSection
   }
 }
 </script>
