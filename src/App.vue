@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <header-section></header-section>
     <services></services>
     <section class="row justify-content-center mb-5">
       <div class="col" v-for="(item, index) of team" :key="index">
@@ -15,13 +16,15 @@
 import FooterSection from './components/FooterSection.vue';
 import TeamCard from './components/TeamCard.vue';
 import Services from './components/Services.vue';
+import HeaderSection from './components/HeaderSection.vue';
 
 export default {
   name: 'App',
   components: {
     Services,
     TeamCard,
-    FooterSection
+    FooterSection,
+    HeaderSection
   },
   data(){
     return{
