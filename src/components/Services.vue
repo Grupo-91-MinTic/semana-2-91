@@ -10,9 +10,9 @@
           <div class="d-flex justify-content-center p-2">
             <img :src="service.img" :alt="service" class="img-fluid" />
           </div>
-          <div class="card-body">
+          <div class="card-body bg-primary text-white" >
             <h3 class="card-title">{{ service.title }}</h3>
-            <p class="card-text text-justify">
+            <p class="card-text">
               {{ service.description }}
             </p>
             <a :href="service.url">Ver mas...</a>
