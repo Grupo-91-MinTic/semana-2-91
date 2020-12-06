@@ -24,12 +24,12 @@ import HeaderSection from './components/HeaderSection.vue';
 
 export default {
   name: 'App',
-  components: {
+  components: {,
+    HeaderSection,
     Services,
     NewsSection,
     TeamCard,
-    FooterSection,
-    HeaderSection
+    FooterSection
   },
   data(){
     return{
