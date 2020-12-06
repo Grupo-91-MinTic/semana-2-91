@@ -1,5 +1,5 @@
 <template>
-  <div class="container-fluid">
+  <div class="container-fluid" id="services">
     <div class="row justify-content-center mb-5">
       <div
         v-for="(service, index) of services"
