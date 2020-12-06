@@ -1,4 +1,5 @@
-# pryecto_sprint2
+# Proyecto sprint II
+
 
 ## Project setup
 ```
@@ -27,3 +28,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
