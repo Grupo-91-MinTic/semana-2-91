@@ -24,7 +24,7 @@ import HeaderSection from './components/HeaderSection.vue';
 
 export default {
   name: 'App',
-  components: {,
+  components: {
     HeaderSection,
     Services,
     NewsSection,
